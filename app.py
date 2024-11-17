@@ -14,7 +14,7 @@ import pandas as pd
 genai.configure(api_key="AIzaSyAT4wXUJkT5yJGL2TglmhTNSjMJSQAhujU")
 
 # Load the pre-trained model for stock prediction
-model = load_model('C:/Users/aasth/stock-predict/Stock Predictions Model.keras')
+model = load_model('Stock Predictions Model.keras')
 
 # Supporting functions for volatility and sentiment analysis
 def get_stock_volatility(stock_symbol, start_date='2022-01-01', end_date='2024-12-31'):
