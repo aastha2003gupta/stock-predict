@@ -8,3 +8,4 @@ requests
 textblob
 numpy
 pandas
+tensorflow
