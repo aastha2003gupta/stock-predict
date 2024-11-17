@@ -1,1 +1,10 @@
 google-generativeai
+streamlit
+yfinance
+matplotlib
+keras
+scikit-learn
+requests
+textblob
+numpy
+pandas
